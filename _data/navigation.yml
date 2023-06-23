@@ -1,9 +1,9 @@
 main:
+  - title: "Home"
+    url: /
+  - title: "Contribute"
+    url: /contribute/
+  - title: "Use"
+    url: /use/
   - title: "Posts"
     url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/

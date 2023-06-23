@@ -27,7 +27,7 @@ The following files are relevant:
 * [reconstruction/proto_forms.csv](https://github.com/caribank/caribank/blob/main/reconstruction/proto_forms.csv) contains reconstructed forms
 * [etc/contributors.csv](https://github.com/caribank/caribank/blob/main/etc/contributors.csv) contains information about all contributors
 
-Read the [general annotation guidelines](http://localhost:4000/contribute/comparative) for instructions how to annotate.
+Read the [general annotation guidelines](/contribute/comparative) for instructions how to annotate.
 When you are done, review your changes and submit a pull request -- it is perfectly OK to submit a pull request that only has one new annotation or a bugfix or something.
 
 ## Command line workflow

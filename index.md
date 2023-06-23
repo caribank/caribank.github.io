@@ -1,7 +1,12 @@
 ---
-title: "About"
+title: "Welcome to caribank"
+layout: single
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Caribank is a project bringing together data from all [Cariban](https://glottolog.org/resource/languoid/id/cari1283) languages, with the goal of facilitating the comparison and reconstruction of Cariban lexicon.
+It is compiled from a collection of individual [CLDF](https://cldf.clld.org/) datasets.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+The bulk of the data contained in caribank was compiled and glossed in [shoebox](https://software.sil.org/shoebox/) by Sérgio Meira over many years.
+Florian Matter converted these shoebox databases to CLDF datasets and started adding other datasets.
+
+Anybody with knowledge on Cariban or/and historical linguistics is invited to [contribute](contribute).

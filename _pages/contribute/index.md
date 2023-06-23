@@ -5,9 +5,9 @@ breadcrumbs: false
 ---
 
 
-* [comparative annotations](comparative)
+* [historical comparison](comparative)
     * [on Google sheets](comparative/gsheets)
     * [on Github](comparative/github)
 * [data](data)
 * [metadata](meta)
-* [working with the bibliography](bib)
+* [about the bibliography](bib)

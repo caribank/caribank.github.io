@@ -1,5 +1,5 @@
 ---
-title: "Contribute comparative annotations"
+title: "Historical comparison"
 permalink: /contribute/comparative
 ---
 
@@ -16,10 +16,11 @@ A cognate set minimally has values for `ID`, `Concept`, and `Annotator`.
 
 ## Cognacy
 The entities available for annotation are sourced from the database and loaded into annotation spreadsheets.
-These spreadsheets contain a combination of columns containing information about the entity and annotation columns.
+These spreadsheets contain a combination of 1) columns containing information about the entity and 2) annotation columns.
 Changes to the annotation columns will be fed back into the database; *changes to other columns will not have any effect*.
 
-Cognacy annotations are on the **historical** morph level, i.e., invariable and non-segmentable segment sequences reconstructible to some proto-language, ideally Proto-Cariban.
+Cognacy annotations are on the level of the **morph** from a **historical** perspective.
+That is, the atomic unit of annotation are invariable and non-segmentable segment sequences reconstructible to a proto-language.
 Entities from the database receive an annotation minimally consisting of:
 * `Cognateset_ID`, referencing the cognate set
 * `Annotator`, referencing the [table of contributors](https://github.com/caribank/caribank/blob/main/etc/contributors.csv)
@@ -55,6 +56,15 @@ It is crucial to use `+`-delimited `Segmentation` values for these cases, otherw
 Reconstructed forms can be entered in [a separate spreadsheet](https://github.com/caribank/caribank/blob/main/reconstruction/proto_forms.csv).
 `Concept` only needs to contain a value if the form's meaning is not identical to the concept annotated for the corresponding cognate set (i.e., if semantic shift has taken place).
 A reconstructed form may come from the literature; in that case, the source is made explicit in the `Source` field.
+Proto-forms are transcribed using the following special characters:
+
+| Grapheme | IPA |
+|---|---|
+| ⟨ë⟩ | ə |
+| ⟨ï⟩ | ɨ |
+| ⟨y⟩ | j |
+
+Unspecified non-nasal consonants, vowels, and nasals can be indicated with the symbols ⟨C⟩, ⟨V⟩ and ⟨N⟩.
 
 ## Editing data
 There are two ways to edit the spreadsheets:

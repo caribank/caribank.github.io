@@ -7,7 +7,8 @@ layout: single
 Currently, the main goal is annotation of cognate material and reconstruction of proto-forms.
 
 ## Cognate sets
-There is a [table of cognate sets](https://github.com/caribank/caribank/blob/main/reconstruction/cognatesets.csv)
+Cognate sets (= identified correspondences) are stored in [a separate table](https://github.com/caribank/caribank/blob/main/reconstruction/cognatesets.csv).
+A cognate set minimally has an `ID` (= human-readable shorthand)
 
 ## Cognacy
 The entities available for annotation are sourced from the database and loaded into annotation spreadsheets.

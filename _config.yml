@@ -62,6 +62,7 @@ atom_feed:
 search: true
 lunr:
   search_within_pages: true
+search_full_content: true
 
 author:
   name   : "caribank"

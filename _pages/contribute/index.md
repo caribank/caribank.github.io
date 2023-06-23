@@ -4,10 +4,10 @@ permalink: /contribute/
 breadcrumbs: false
 ---
 
+There are a number of ways in which you can contribute to the project:
 
 * [historical comparison](comparative)
     * [on Google sheets](comparative/gsheets)
     * [on Github](comparative/github)
-* [data](data)
+* [primary data](data)
 * [metadata](meta)
-* [about the bibliography](bib)

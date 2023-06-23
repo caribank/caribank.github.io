@@ -1,8 +1,6 @@
 ---
 title: "Use caribank"
 permalink: /use
-layout: single
-author_profile: false
 ---
 
 ## Formats

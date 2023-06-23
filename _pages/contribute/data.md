@@ -1,7 +1,6 @@
 ---
 title: "Contribute data"
 permalink: /contribute/data
-layout: single
 ---
 
 If you have data of a Cariban language which is not yet in the database, and would like to share it, please [contact us](mailto:caribanresources@gmail.com).

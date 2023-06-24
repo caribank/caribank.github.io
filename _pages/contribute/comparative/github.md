@@ -10,7 +10,7 @@ That means that you work in a separate branch and only when you are happy with y
 Follow these instructions to get started:
 
 1. If you don't have an account yet, follow [these instructions](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account).
-2. [Contact us](mailto:caribanresources@gmail.com) to be added to the caribank organization and receive access for the repo.
+2. Contact us to be added to the caribank organization and receive access for the repo.
 3. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository to your computer(s).
 4. [Create a branch](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) with your name or label. Make sure that your local clone is **always** set to that branch.
 

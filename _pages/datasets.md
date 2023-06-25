@@ -39,3 +39,12 @@ classes: wide
 | †Chayma         | †Chayma shoebox database                                                      |                                                                                      | Meira, Sérgio                                | 525      |            |             |         |
 | Kuikuro         | Kuikuro shoebox database                                                      |                                                                                      | Meira, Sérgio                                | 60       |            |             |         |
 | †Pimenteira     | †Pimenteira shoebox database                                                  |                                                                                      | Meira, Sérgio                                | 135      |            |             |         |
+
+## Potential additions
+
+| Language   | Source                                                                                                                                                          |
+|:-----------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Wayana     | Camargo, Eliane and Tapinkili, Anaiman. 2010. Hakëne omijau eitop Wajana-Palasisi / Dictionnaire bilingue Wayana-Français. Paris: CELIA/DRAC-Guyane, TEKUREMAI. |
+| Taulipang  | Courtz, Henk. 2008. A Carib grammar and dictionary. Toronto: Magoria Books.                                                                                     |
+| Apalaí     | Koehn, Edward and Koehn, Sally. 1994. 14 textos Apalaí. Brasília: Summer Institute of Linguistics.                                                              |
+| Apalaí     | Koehn, Edward H. and Koehn, Sally S. 1995. Vocabulário básico Apalaí-Português: Dicionário da língua Apalaí. Brasilia: Sociedade Internacional de Lingüística.  |

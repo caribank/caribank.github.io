@@ -7,7 +7,7 @@ Caribank is a project bringing together data from all [Cariban](https://glottolo
 It is compiled from a collection of individual [CLDF](https://cldf.clld.org/) datasets.
 
 The bulk of the data contained in caribank was compiled and glossed in [shoebox](https://software.sil.org/shoebox/) by Sérgio Meira over many years.
-Florian Matter converted these shoebox databases to CLDF datasets and started adding other datasets.
-An overview is available [here](datasets).
+Florian Matter converted these shoebox files to CLDF datasets and started adding other datasets.
+Click [here](datasets) for an overview of the datasets.
 
 Anybody with knowledge on Cariban or/and historical linguistics is invited to [contribute](contribute).

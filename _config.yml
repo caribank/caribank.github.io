@@ -23,6 +23,8 @@ twitter_username: username
 github_username: caribank
 minimal_mistakes_skin: default
 search: true
+APP_URL_BASE: http://caribank-9c39841b5eae.herokuapp.com/
+
 
 # Build settings
 markdown: kramdown

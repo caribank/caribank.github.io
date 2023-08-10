@@ -10,4 +10,4 @@ The bulk of the data contained in caribank was compiled and glossed in [shoebox]
 Florian Matter converted these shoebox files to CLDF datasets and started adding other datasets.
 Click [here](datasets) for an overview of the datasets.
 
-Anybody with knowledge on Cariban or/and historical linguistics is invited to [contribute](contribute).
+People with knowledge on Cariban languages are invited to [contribute](contribute).

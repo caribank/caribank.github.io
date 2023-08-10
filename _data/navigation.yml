@@ -1,6 +1,8 @@
 main:
-  - title: "Home"
+  - title: "About"
     url: /
+  - title: "Datasets"
+    url: /datasets
   - title: "Contribute"
     url: /contribute
   - title: "Use"

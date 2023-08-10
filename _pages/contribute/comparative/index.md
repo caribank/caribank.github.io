@@ -1,5 +1,5 @@
 ---
-title: "Historical comparison"
+title: "Comparative annotations"
 permalink: /contribute/comparative
 ---
 

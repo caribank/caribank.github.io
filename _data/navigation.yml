@@ -3,8 +3,8 @@ main:
     url: /
   - title: "Datasets"
     url: /datasets
-  - title: "Contribute"
-    url: /contribute
+  # - title: "Contribute"
+  #   url: /contribute
   - title: "Use"
     url: /use
   # - title: "Posts"
